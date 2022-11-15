@@ -1,0 +1,14 @@
+C:\Users\dsoto\OneDrive\Escritorio\Clases Universidad\4o ciclo\progra\lab\Laboratorio\semana7\T1_DASA1187921\T1_DASA1187921\bin\Debug\netcoreapp3.1\T1_DASA1187921.exe
+C:\Users\dsoto\OneDrive\Escritorio\Clases Universidad\4o ciclo\progra\lab\Laboratorio\semana7\T1_DASA1187921\T1_DASA1187921\bin\Debug\netcoreapp3.1\T1_DASA1187921.deps.json
+C:\Users\dsoto\OneDrive\Escritorio\Clases Universidad\4o ciclo\progra\lab\Laboratorio\semana7\T1_DASA1187921\T1_DASA1187921\bin\Debug\netcoreapp3.1\T1_DASA1187921.runtimeconfig.json
+C:\Users\dsoto\OneDrive\Escritorio\Clases Universidad\4o ciclo\progra\lab\Laboratorio\semana7\T1_DASA1187921\T1_DASA1187921\bin\Debug\netcoreapp3.1\T1_DASA1187921.runtimeconfig.dev.json
+C:\Users\dsoto\OneDrive\Escritorio\Clases Universidad\4o ciclo\progra\lab\Laboratorio\semana7\T1_DASA1187921\T1_DASA1187921\bin\Debug\netcoreapp3.1\T1_DASA1187921.dll
+C:\Users\dsoto\OneDrive\Escritorio\Clases Universidad\4o ciclo\progra\lab\Laboratorio\semana7\T1_DASA1187921\T1_DASA1187921\bin\Debug\netcoreapp3.1\T1_DASA1187921.pdb
+C:\Users\dsoto\OneDrive\Escritorio\Clases Universidad\4o ciclo\progra\lab\Laboratorio\semana7\T1_DASA1187921\T1_DASA1187921\obj\Debug\netcoreapp3.1\T1_DASA1187921.csproj.AssemblyReference.cache
+C:\Users\dsoto\OneDrive\Escritorio\Clases Universidad\4o ciclo\progra\lab\Laboratorio\semana7\T1_DASA1187921\T1_DASA1187921\obj\Debug\netcoreapp3.1\T1_DASA1187921.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsoto\OneDrive\Escritorio\Clases Universidad\4o ciclo\progra\lab\Laboratorio\semana7\T1_DASA1187921\T1_DASA1187921\obj\Debug\netcoreapp3.1\T1_DASA1187921.AssemblyInfoInputs.cache
+C:\Users\dsoto\OneDrive\Escritorio\Clases Universidad\4o ciclo\progra\lab\Laboratorio\semana7\T1_DASA1187921\T1_DASA1187921\obj\Debug\netcoreapp3.1\T1_DASA1187921.AssemblyInfo.cs
+C:\Users\dsoto\OneDrive\Escritorio\Clases Universidad\4o ciclo\progra\lab\Laboratorio\semana7\T1_DASA1187921\T1_DASA1187921\obj\Debug\netcoreapp3.1\T1_DASA1187921.csproj.CoreCompileInputs.cache
+C:\Users\dsoto\OneDrive\Escritorio\Clases Universidad\4o ciclo\progra\lab\Laboratorio\semana7\T1_DASA1187921\T1_DASA1187921\obj\Debug\netcoreapp3.1\T1_DASA1187921.dll
+C:\Users\dsoto\OneDrive\Escritorio\Clases Universidad\4o ciclo\progra\lab\Laboratorio\semana7\T1_DASA1187921\T1_DASA1187921\obj\Debug\netcoreapp3.1\T1_DASA1187921.pdb
+C:\Users\dsoto\OneDrive\Escritorio\Clases Universidad\4o ciclo\progra\lab\Laboratorio\semana7\T1_DASA1187921\T1_DASA1187921\obj\Debug\netcoreapp3.1\T1_DASA1187921.genruntimeconfig.cache
